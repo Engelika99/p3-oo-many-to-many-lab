@@ -1,3 +1,4 @@
+
 from many_to_many import Author, Book, Contract
 import pytest
 
